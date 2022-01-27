@@ -1,0 +1,105 @@
+body {
+  font-size: 10pt;
+  font-family: monospace;
+  margin: 25px;
+  background-color: #E2AE00;
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 1.8em;
+  text-align: center;
+  color: black;
+  background-color: #E2AE00;
+}
+h3{
+  text-align: center;
+  font-size: 0.7em;
+}
+h2{
+  font-style: normal;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 50%;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+}
+h5{
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+p{
+  text-align: center;
+  color: black;
+  margin: 9px;
+}
+
+footer {
+  background:#7E6100;
+  height: 5em;
+  width: auto;
+}
+header{
+  background: white;
+  height: auto;
+  width: auto;
+}
+div {
+text-align: center;
+}
+.action-btn {
+  display: inline-flex;
+  text-decoration: none;
+  font-size: 15px;
+  color: white;
+  background: #567bfb;
+  padding: 0.8em 2em;
+  border-radius: 100px;
+  border: white 3px double;
+  margin: 0.1em 0.7em;
+  font-family: sans-serif;
+  margin-top: 10px;
+  
+}
+.social-media-button {
+    border-radius: 20px 20px 20px 20px;
+    color: darkred;     
+    font-size: 16px;
+    padding: 1em 7em;
+    margin: 1em 2.3em;
+ 
+}
+h4{
+  font-size: 100px;
+}
+ 
+.social-media-button:hover {
+    opacity: 0.9;
+
+}
+
+div.main {
+    background: #fcfcfc; border-bottom: 1px solid #eee; width: 534px; padding: 25px 35px 10px 35px; margin-top: 0px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+.putra {
+  border: 2px solid red; 
+  background-color: whitesmoke;
+}
+.putri {
+  border: 2px solid red;
+  background-color: whitesmoke;
+}
+.putri img {
+   width: 160px; 
+   height: 155px;
+}
+.putra img {
+  width: 160px;
+  height: 155px;
+}
